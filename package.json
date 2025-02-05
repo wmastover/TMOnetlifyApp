@@ -20,6 +20,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
+    "event-source-polyfill": "^1.0.31",
     "eventsource": "^3.0.5",
     "fs": "^0.0.1-security",
     "lucide-react": "^0.460.0",

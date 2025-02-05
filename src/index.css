@@ -28,6 +28,9 @@ body {
   min-height: 100vh;
   height: 100vh;
   width: 100vw;
+  background-color: rgba(243, 243, 243, 0.603); /* Semi-transparent white */
+  backdrop-filter: blur(20px); /* Stronger blur effect */
+  -webkit-backdrop-filter: blur(20px); /* Stronger blur effect for WebKit browsers */
   /* Ensure the body takes up the full viewport width */
 }
 
